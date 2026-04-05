@@ -1,9 +1,9 @@
 ---
-name: task-first-web-design
+name: product-ui-architect
 description: Design guardrails for SaaS products, modern web apps, dashboards, AI workflow tools, and marketing websites that should feel calm, task-first, and brand-specific instead of generic AI-startup UI. Use when designing or implementing frontend layouts, landing pages, app shells, dashboards, or product screens and the goal is to avoid floating-island nav, bento/card mosaics, fake-premium glass, vague hero sections, or widget soup.
 ---
 
-# Task First Web Design
+# Product UI Architect
 
 ## Overview
 

@@ -1,5 +1,5 @@
 {
-  "name": "task-first-web-design",
+  "name": "product-ui-architect",
   "version": "0.1.0",
   "description": "Cross-project design guardrails for calm, task-first SaaS and web app interfaces.",
   "author": {
@@ -18,7 +18,7 @@
   ],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Task-First Web Design",
+    "displayName": "Product UI Architect",
     "shortDescription": "Design guardrails for serious product UI",
     "longDescription": "Use this plugin to steer SaaS pages, app shells, dashboards, and AI workflow interfaces away from floating-card startup cliches and toward calm, structured, task-first design.",
     "developerName": "rtanglestudio",

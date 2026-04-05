@@ -1,25 +1,24 @@
 # Codex Plugins
 
-This repository packages reusable Codex plugins.
+Reusable Codex plugins published by `rtanglestudio`.
 
-## Included
+## Included plugins
 
-### `task-first-web-design`
+### `product-ui-architect`
 
-A cross-project plugin that bundles the `task-first-web-design` skill for SaaS, dashboard, AI workflow, and marketing UI work.
+A design-guidance plugin for SaaS products, dashboards, AI workflow tools, and marketing sites.
 
 It pushes Codex toward:
 
-- calm, task-first interfaces
-- continuous surfaces instead of floating islands
-- tables, lists, and structured workspaces over card soup
-- brand-specific visual systems instead of generic AI-startup styling
+- calm, task-first product interfaces
+- continuous surfaces over floating islands
+- lists, tables, and structured workspaces over card soup
+- brand-specific UI systems over generic AI-startup styling
 
-## Structure
+## Repository layout
 
-- [`.codex-plugin/plugin.json`](./.codex-plugin/plugin.json)
-- [`skills/task-first-web-design/SKILL.md`](./skills/task-first-web-design/SKILL.md)
-- [`skills/task-first-web-design/references/design-instructions.md`](./skills/task-first-web-design/references/design-instructions.md)
+- [`plugins/product-ui-architect`](./plugins/product-ui-architect)
+- [`.agents/plugins/marketplace.json`](./.agents/plugins/marketplace.json)
 
 ## License
 

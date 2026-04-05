@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product UI Architect"
+  short_description: "Design guardrails for serious product UI"
+  default_prompt: "Use $product-ui-architect to design a calm, task-first SaaS or web app interface that avoids generic floating-card layouts."
