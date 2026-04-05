@@ -1,6 +1,8 @@
-# Product UI Architect for Codex
+# Product UI Architect
 
-Product UI Architect is a Codex plugin for teams building SaaS products, dashboards, AI workflow tools, and modern marketing sites.
+Task-first design guardrails for Codex when building SaaS products, dashboards, AI workflow tools, and modern marketing sites.
+
+![Product UI Architect social preview](./.github/social-preview.png)
 
 It helps Codex stop defaulting to generic AI-startup UI patterns such as floating cards, bento-box feature grids, detached pill navigation, and vague hero sections. Instead, it pushes the model toward calm, structured, task-first interfaces built around real workflows, content hierarchy, and product architecture.
 
