@@ -14,7 +14,9 @@
     "design",
     "frontend",
     "saas",
-    "ux"
+    "ux",
+    "dashboard",
+    "marketing"
   ],
   "skills": "./skills/",
   "interface": {
@@ -29,13 +31,20 @@
       "UX"
     ],
     "websiteURL": "https://github.com/rtanglestudio/codex-plugins",
-    "privacyPolicyURL": "",
-    "termsOfServiceURL": "",
+    "privacyPolicyURL": "https://github.com/rtanglestudio/codex-plugins/blob/main/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/rtanglestudio/codex-plugins/blob/main/TERMS.md",
     "defaultPrompt": [
       "Design a calm SaaS landing page without bento features.",
       "Refactor this dashboard into a task-first workspace.",
       "Review this app shell for generic floating-card patterns."
     ],
-    "brandColor": "#1F6B5B"
+    "brandColor": "#1F6B5B",
+    "composerIcon": "./assets/product-ui-architect-icon.png",
+    "logo": "./assets/product-ui-architect-logo.png",
+    "screenshots": [
+      "./assets/product-ui-architect-shot-1.png",
+      "./assets/product-ui-architect-shot-2.png",
+      "./assets/product-ui-architect-shot-3.png"
+    ]
   }
 }
