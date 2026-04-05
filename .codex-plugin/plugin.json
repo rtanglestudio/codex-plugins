@@ -1,0 +1,41 @@
+{
+  "name": "task-first-web-design",
+  "version": "0.1.0",
+  "description": "Cross-project design guardrails for calm, task-first SaaS and web app interfaces.",
+  "author": {
+    "name": "rtanglestudio",
+    "email": "",
+    "url": "https://github.com/rtanglestudio"
+  },
+  "homepage": "https://github.com/rtanglestudio/codex-plugins",
+  "repository": "https://github.com/rtanglestudio/codex-plugins",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "frontend",
+    "saas",
+    "ux"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Task-First Web Design",
+    "shortDescription": "Design guardrails for serious product UI",
+    "longDescription": "Use this plugin to steer SaaS pages, app shells, dashboards, and AI workflow interfaces away from floating-card startup cliches and toward calm, structured, task-first design.",
+    "developerName": "rtanglestudio",
+    "category": "Design",
+    "capabilities": [
+      "Guidance",
+      "Frontend",
+      "UX"
+    ],
+    "websiteURL": "https://github.com/rtanglestudio/codex-plugins",
+    "privacyPolicyURL": "",
+    "termsOfServiceURL": "",
+    "defaultPrompt": [
+      "Design a calm SaaS landing page without bento features.",
+      "Refactor this dashboard into a task-first workspace.",
+      "Review this app shell for generic floating-card patterns."
+    ],
+    "brandColor": "#1F6B5B"
+  }
+}
